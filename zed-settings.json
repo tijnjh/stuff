@@ -12,12 +12,9 @@
   "tabs": {
     "file_icons": true,
     "git_status": true,
-    "show_diagnostics": "errors"
+    "show_diagnostics": "all"
   },
   "buffer_font_size": 13,
-  "project_panel": {
-    "indent_size": 16
-  },
   "terminal": {
     "toolbar":  {
       "breadcrumbs": false
